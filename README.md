@@ -1,2 +1,2 @@
-# etl_com_python
+# ETL com Python
 Realização de ETL utilizando Jupyter Notebook e linguagem Python
