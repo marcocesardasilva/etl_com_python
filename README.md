@@ -14,4 +14,4 @@ A base de dados de ocorrências aeronáuticas é gerenciada pelo Centro de Inves
 
 Disponível em:
 
-http://sistema.cenipa.aer.mil.br/cenipa/media/opendata/ocorrencia_2010_2020.csv
+http://sistema.cenipa.aer.mil.br/cenipa/media/opendata/ocorrencia.csv
